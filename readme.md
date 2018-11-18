@@ -11,7 +11,7 @@ React Router DOM - 16.6.*
 a. Create Laravel Project in specific version (5.5.28) with Composer.
 
 ```bash
-composer create-project laravel/laravel 5.5.*
+composer create-project laravel/laravel react-laravel 5.5.*
 ```
 
 b. If prefer to use React to buld your JavaScript Application, use **preset** command to replace Vue with **React Scaffolding**.
