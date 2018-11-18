@@ -1,9 +1,9 @@
 # React with Laravel
 > A demonstration for installation of React into Laravel with Laravel Mix
 
-React - 16.6.*
-React DOM - 16.6.*
-React Router DOM - 16.6.*
+React - 16.6.*  
+React DOM - 16.6.*  
+React Router DOM - 16.6.*  
 
 # Installation
 > Please ensure you have install NodeJS and NPM in your machine before perform the following steps (brew install node)
