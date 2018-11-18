@@ -11,41 +11,41 @@ React Router DOM - 16.6.*
 a. Create Laravel Project in specific version (5.5.28) with Composer.
 
 ```bash
-yinghua$ composer create-project laravel/laravel 5.5.*
+composer create-project laravel/laravel 5.5.*
 ```
 
 b. If prefer to use React to buld your JavaScript Application, use **preset** command to replace Vue with **React Scaffolding**.
 
 ```bash
-yinghua$ php artisan preset react
+php artisan preset react
 ```
 
 c. Add **cross-env** package into package.json. The package take cares of the setting and configure environment variable in various Environment.
 
 ```bash
-yinghua$ npm install cross-env --save-dev
+npm install cross-env --save-dev
 ```
 
 d. Create Node Modules into Laravel Project, a package management directory that contains the installed packages locally with NPM.
 
 ```bash
-yinghua$ npm install
+npm install
 ```
 
 e. Compile React JSX into ES5, SASS into CSS and other require dependencies and configuration into assets.
 
 ```bash
-yinghua$ npm run dev
+npm run dev
 ```
 
 f. Watch React JSX and SASS file during development and re-compiled once a single changes is made.
 
 ```bash
-yinghua$ npm run watch
+npm run watch
 ```
 
 g. (Optional) Hot Reload :)
 
 ```bash
-yinghua$ npm run hot
+npm run hot
 ```
