@@ -8,10 +8,10 @@ React Router DOM - 16.6.*
 # Installation
 > Please ensure you have install NodeJS and NPM in your machine before perform the following steps (brew install node)
 
-a. Create Laravel Project in specific version (5.5.28) with Composer.
+a. Create Laravel Project in specific version with Composer.
 
 ```bash
-composer create-project laravel/laravel react-laravel 5.5.*
+composer create-project laravel/laravel react-laravel
 ```
 
 b. If prefer to use React to buld your JavaScript Application, use **preset** command to replace Vue with **React Scaffolding**.
